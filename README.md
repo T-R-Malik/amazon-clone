@@ -24,6 +24,7 @@ This project is a front-end clone of the Amazon homepage developed using HTML an
 
 - HTML5
 - CSS3
+- Vercel
 
 ---
 
